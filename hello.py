@@ -1,2 +1,1 @@
-print('je;dfjdf'
-)
+print('je;dfjdf')
